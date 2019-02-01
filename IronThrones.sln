@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IronThrones", "IronThrones.csproj", "{498E715D-2118-15DE-ED4B-C2696F5B7872}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IronThrones.Plugins", "IronThrones.Plugins.csproj", "{A672F773-A34D-2DBA-F50E-71049BD79AD2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IronThrones.Editor.Plugins", "IronThrones.Editor.Plugins.csproj", "{830EC94C-0B40-A6BD-3411-35A2D4761BA6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IronThrones.Editor", "IronThrones.Editor.csproj", "{A349D6B6-BB55-2533-1520-717DEB6EF6F4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{498E715D-2118-15DE-ED4B-C2696F5B7872}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{498E715D-2118-15DE-ED4B-C2696F5B7872}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{498E715D-2118-15DE-ED4B-C2696F5B7872}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{498E715D-2118-15DE-ED4B-C2696F5B7872}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A672F773-A34D-2DBA-F50E-71049BD79AD2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A672F773-A34D-2DBA-F50E-71049BD79AD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A672F773-A34D-2DBA-F50E-71049BD79AD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A672F773-A34D-2DBA-F50E-71049BD79AD2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{830EC94C-0B40-A6BD-3411-35A2D4761BA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{830EC94C-0B40-A6BD-3411-35A2D4761BA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{830EC94C-0B40-A6BD-3411-35A2D4761BA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{830EC94C-0B40-A6BD-3411-35A2D4761BA6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A349D6B6-BB55-2533-1520-717DEB6EF6F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A349D6B6-BB55-2533-1520-717DEB6EF6F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A349D6B6-BB55-2533-1520-717DEB6EF6F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A349D6B6-BB55-2533-1520-717DEB6EF6F4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
